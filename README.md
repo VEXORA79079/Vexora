@@ -8,7 +8,6 @@
 
 ## 🟢 SYSTEM PROFILE
 
-```bash
 > USER: VEXORA
 > ROLE: Moderator
 > LOCATION: Earth 🌍
