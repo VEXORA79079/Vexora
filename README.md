@@ -38,14 +38,33 @@
 
 ---
 
-## 🔗 NETWORK CONNECTIONS
+  ## 🔗 NETWORK CONNECTIONS
 
-<p <a href="https://linkedin.com/in/sharon-babu-9a5957301">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00"/>
-  </a>
-  <a href="mailto:sharonbabu857@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF00"/>
-  </a>
+<p align="center">
+
+<a href="https://linkedin.com/in/sharon-babu-9a5957301">
+  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00"/>
+</a>
+
+<a href="mailto:sharonbabu857@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF00"/>
+</a>
+
+<a href="https://instagram.com/@sharon_babu_207">
+  <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=00FF00"/>
+</a>
+
+<a href="https://discord.gg/https://discord.com/channels/@me">
+  <img src="https://img.shields.io/badge/DISCORD-000000?style=for-the-badge&logo=discord&logoColor=00FF00"/>
+</a>
+
+<a href="https://pinterest.com/https://in.pinterest.com/sharonbabu876/">
+  <img src="https://img.shields.io/badge/PINTEREST-000000?style=for-the-badge&logo=pinterest&logoColor=00FF00"/>
+</a>
+
+<a href="https://bsky.app/profile/https://bsky.app/profile/sharonbabu.bsky.social">
+  <img src="https://img.shields.io/badge/BLUESKY-000000?style=for-the-badge&logo=bluesky&logoColor=00FF00"/>
+</a>
 </p>
 
 ---
