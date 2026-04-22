@@ -1,3 +1,20 @@
+<h1 align="center">>_ ACCESS GRANTED</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Initializing+System...;Welcome+to+VEXORA;AI+%2B+UI%2FUX;System+Status:+ONLINE" />
+</p>
+
+---
+
+## 🟢 SYSTEM PROFILE
+
+```bash
+> USER: VEXORA
+> ROLE: Moderator
+> LOCATION: Earth 🌍
+> STATUS: Building the Future
+> FOCUS: AI + UI/UX
+
 ## 📊 SYSTEM ANALYTICS
 
 <p align="center">
